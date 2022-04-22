@@ -11,13 +11,13 @@ Jishan Mart is specially designed for fashion, electronics, automation, digital,
 ### Header with Search ( Keyword, Category )
 ![](https://raw.githubusercontent.com/jishanhoshen/assets/main/FireShot%20Capture%20010%20-%20Jishan%20Mart%20-%20jisan.mrsojib.com.png)
 
-### Advanve Slider ( Full Controlled ) 
+### Advanced Slider ( Full Controlled ) 
 ![](https://raw.githubusercontent.com/jishanhoshen/assets/main/FireShot%20Capture%20006%20-%20Jishan%20Mart%20-%20jisan.mrsojib.com.png)
 
 ### Banners With Offers
 ![](https://raw.githubusercontent.com/jishanhoshen/assets/main/FireShot%20Capture%20011%20-%20Jishan%20Mart%20-%20jisan.mrsojib.com.png)
 
-### Greate Footer
+### Great Footer
 ![](https://raw.githubusercontent.com/jishanhoshen/assets/main/FireShot%20Capture%20012%20-%20Jishan%20Mart%20-%20jisan.mrsojib.com.png)
 
 ### Filter Product
