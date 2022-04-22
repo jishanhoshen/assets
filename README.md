@@ -101,4 +101,4 @@ __Software Version__ :
 
 __Payment Method__ : 
 
-![](https://securepay.sslcommerz.com/public/image/SSLCommerz-Pay-With-logo-All-Size-01.png)
+![](https://raw.githubusercontent.com/jishanhoshen/assets/main/SSLCommerz-Pay-With-logo-All-Size-01.png)
